@@ -1,0 +1,14 @@
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\bin\Debug\netcoreapp3.1\data type exercise.exe
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\bin\Debug\netcoreapp3.1\data type exercise.deps.json
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\bin\Debug\netcoreapp3.1\data type exercise.runtimeconfig.json
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\bin\Debug\netcoreapp3.1\data type exercise.runtimeconfig.dev.json
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\bin\Debug\netcoreapp3.1\data type exercise.dll
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\bin\Debug\netcoreapp3.1\data type exercise.pdb
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.csproj.AssemblyReference.cache
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.AssemblyInfoInputs.cache
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.AssemblyInfo.cs
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.csproj.CoreCompileInputs.cache
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.dll
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.pdb
+C:\Users\tunah\csharp\chapter 1\data type exercise\data type exercise\obj\Debug\netcoreapp3.1\data type exercise.genruntimeconfig.cache

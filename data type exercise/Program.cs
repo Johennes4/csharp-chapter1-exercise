@@ -53,6 +53,8 @@ namespace data_type_exercise
             Console.WriteLine(searchTermIndex);
             int searchTermLength = searchTerm.Length;
             Console.WriteLine(searchTermLength);
+
+            compAlice.Substring(searchTermIndex, searchTermLength);
         }
     }
 }

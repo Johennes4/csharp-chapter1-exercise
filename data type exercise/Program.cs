@@ -54,7 +54,10 @@ namespace data_type_exercise
             int searchTermLength = searchTerm.Length;
             Console.WriteLine(searchTermLength);
 
-            compAlice.Substring(searchTermIndex, searchTermLength);
+            string searchTermToRemove = compAlice.Substring(searchTermIndex, searchTermLength);
+            string[] splitCompAlice = compAlice.Split(searchTermToRemove);
+            string newAlice = splitCompAlice[0] + splitCompAlice[1];
+            Console.WriteLine(newAlice);
         }
     }
 }
